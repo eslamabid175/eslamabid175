@@ -1,143 +1,178 @@
-# 👋 Hi, I'm Eslam Aped - Flutter Developer & Backend Developer 💙
+### Hi there, I'm Eslam Aped 👋
 
-I'm a passionate Flutter Developer from Cairo, Egypt 🇪🇬 with expertise in building high-performance Flutter applications and Python/Django backends. Expert in Clean Architecture, native Android integration, and optimizing background processes using Dart Isolates. Proven track record of reducing deployment times by 40% via CI/CD and architecting scalable ERP ecosystems.
+🚀 **Senior Flutter Developer & Backend Engineer** | Clean Architecture | Django REST | 10+ Production Apps
 
-📍 **Cairo, Egypt** | 📧 **eslamabid175@gmail.com** | 📱 **+201023332583**
-
-🌐 **[Portfolio](https://eslamabid175.github.io)** | 💼 **[LinkedIn](https://www.linkedin.com/in/eslamaped/)** | 🐙 **[GitHub](https://github.com/eslamabid175)**
+📍 **Cairo, Egypt** | 📧 eslamabid175@gmail.com | 📱 +201023332583
 
 ---
 
-## 🚀 Tech Stack & Skills
+### 💼 Currently Working At
 
-### 📱 **Mobile Development**
-- **Flutter (Dart)** - Cross-platform apps for iOS, Android, and Web
-- **Native Integration** - Kotlin/Swift platform channels
-- **KMP & CMP** - Kotlin/Compose Multiplatform
-- **Isolates & Concurrency** - Background processing optimization
-- **Memory Optimization** - Performance profiling and leak detection
-
-### 🏗️ **Architecture & Design**
-- **Clean Architecture** (Presentation / Domain / Data layers)
-- **Design Patterns** (MVVM, MVI, Repository, Singleton, Factory)
-- **SOLID Principles** - Maintainable and testable code
-- **Modular Architecture** - Scalable app structure
-
-### 🔄 **State Management**
-- **BLoC/Cubit** ⭐ (Primary)
-- **Riverpod**
-- **Provider**
-- **GetX**
-
-### 🌐 **Backend & Database**
-- **Python (Django REST Framework)** - RESTful API design
-- **PostgreSQL & MySQL** - Query optimization
-- **Firebase** - Auth, Firestore, Messaging, Hosting
-- **Hive, RoomDB, SQLite** - Local storage solutions
-
-### 🛠️ **DevOps & Infrastructure**
-- **CI/CD** - GitHub Actions, Codemagic, Bitrise
-- **Docker** - Containerized deployments
-- **Nginx & Gunicorn** - Production server setup
-- **VPS Deployment** - Linux server management
-- **Play Store & App Store** - Release management
-
-### 📋 **Methodologies**
-- Agile/Scrum, JIRA, Git Flow
-- Unit Testing, Code Reviews
-- Technical Documentation
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://cogens.com">
+        <img src="https://img.shields.io/badge/Cogens-Senior_Software_Engineer-blue?style=for-the-badge" alt="Cogens"/>
+      </a>
+      <br/>
+      <sub>🇨🇦 Canada (Remote) | Sep 2024 - Present</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="http://3i-vision.com/#/home">
+        <img src="https://img.shields.io/badge/3I_Vision-Senior_Flutter_Developer-green?style=for-the-badge" alt="3I Vision"/>
+      </a>
+      <br/>
+      <sub>🇪🇬 Egypt (Hybrid) | Feb 2024 - Present</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Work Experience
+### 🏆 Key Achievements
 
-### **Cogens** | Senior Software Engineer | Sep 2025 – Present
-📍 Canada (Remote) | 🌐 [cogens.com](https://cogens.com/)
-
-- **ERP System Architecture:** Architected "Cogens," a complex ERP ecosystem consisting of 4 interconnected mobile apps (Parent, Staff, Student, Driver) using a modular monolith approach
-- **Real-Time Tracking:** Engineered the "Cogens Bus" tracking system using Dart Isolates and platform channels for persistent socket connections and GPS tracking
-- **Backend Development:** Co-developed the backend using Django REST Framework, optimizing SQL queries for high-concurrency
-- **DevOps Automation:** Established CI/CD pipelines via GitHub Actions, reducing deployment time by 40%
-- **Payment Integration:** Integrated multi-gateway payment systems (Stripe, PayPal)
-
-### **3I Vision** | Senior Flutter Developer | Feb 2025 – Present
-📍 Giza, Egypt (Hybrid) | 🌐 [3i-vision.com](http://3i-vision.com/#/home)
-
-- **AI/ML On-Device Processing:** Engineered "DataMind," implementing ML model responses for People Detection and License Plate Recognition
-- **Performance Optimization:** Refactored legacy codebases, reducing app start-up time by 30%
-- **Offline-First Architecture:** Built robust offline synchronization for "Aramco Inventory" app using Hive/SQLite
-- **Security:** Developed "Permit Management Flow" with rigorous authentication protocols
-
-### **Freelance & Project-Based** | Software Engineer | Jan 2022 – Jan 2025
-📍 Remote
-
-- **Full-Cycle Development:** Managed complete SDLC for regional and Omani market clients
-- **Serverless Backend:** Architected serverless backends using Firebase
-- **Google Maps Integration:** Implemented complex geospatial queries and real-time navigation
+- 📱 **10+ Production Apps** on App Store & Play Store
+- ⚡ **40% faster deployments** through CI/CD automation (GitHub Actions)
+- 🏗️ **ERP Ecosystem** - 4 mobile apps + 2 web panels for school management
+- 🤖 **AI-Powered Apps** - People Detection & License Plate Recognition
+- 🔧 **Full-Stack** - Flutter frontend + Django REST backend
 
 ---
 
-## 📱 Featured Projects
+### 🔥 Featured Production Apps
 
-### 🏢 **Cogens ERP Ecosystem** (Live)
-| App | Description | Links |
-|-----|-------------|-------|
-| **Cogens Parent** | Track attendance, announcements, payments | [App Store](https://apps.apple.com/eg/app/cogens-parent/id1607885469) • [Play Store](https://play.google.com/store/apps/details?id=com.trispects.school.parents) |
-| **Cogens Student** | View schedules, grades, attendance | [App Store](https://apps.apple.com/eg/app/cogens-student/id6476619759) • [Play Store](https://play.google.com/store/apps/details?id=com.trispects.school.students) |
-| **Cogens Bus Driver** | Real-time GPS tracking, route management | [App Store](https://apps.apple.com/eg/app/cogens-bus-driver/id6479618217) • [Play Store](https://play.google.com/store/apps/details?id=com.trispects.school.bus.driver) |
-| **Cogens Staff** | Attendance recording, parent communication | [App Store](https://apps.apple.com/eg/app/cogens-staff/id1607885245) • [Play Store](https://play.google.com/store/apps/details?id=com.trispects.school.management) |
-| **Admin Panel** | Full school management (Django) | [Visit](https://school.cogens.com/#/login) |
-| **Vendor Panel** | Hot lunch management | [Visit](https://vendor.cogens.com/#/loginScreen) |
+#### 🏢 Cogens School Management System
+| App | Platform | Links |
+|-----|----------|-------|
+| **Cogens Parent** | iOS & Android | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/cogens-parent/id1607885469) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.trispects.school.parents) |
+| **Cogens Student** | iOS & Android | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/cogens-student/id6476619759) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.trispects.school.students) |
+| **Cogens Bus Driver** | iOS & Android | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/cogens-bus-driver/id6479618217) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.trispects.school.bus.driver) |
+| **Cogens Staff** | iOS & Android | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/school-connect/id1607885245) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.trispects.school.management) |
+| **Admin Panel** | Web (Django) | [![Website](https://img.shields.io/badge/Visit-Panel-success?style=flat)](https://school.cogens.com/#/login) |
+| **Vendor Panel** | Web (Django) | [![Website](https://img.shields.io/badge/Visit-Panel-success?style=flat)](https://vendor.cogens.com/#/loginScreen) |
 
-### 👁️ **3I Vision Projects** (Live)
-| App | Description | Links |
-|-----|-------------|-------|
-| **3I Vision** | AI-powered People Detection & License Plate Recognition | [App Store](https://apps.apple.com/eg/app/3i-vision/id6670479729) • [Play Store](https://play.google.com/store/apps/details?id=com.vision.watcharea) |
-| **DataMind Agent** | Intelligent file manager with AI classification | [App Store](https://apps.apple.com/eg/app/datamind-agent/id6754242027) • [Play Store](https://play.google.com/store/apps/details?id=com.datamind.agent) |
-| **Adahi** | AI-based health and qualification detection | [Play Store](https://play.google.com/store/apps/details?id=com.adahi.sa) |
+#### 👁️ 3I Vision AI Applications
+| App | Platform | Links |
+|-----|----------|-------|
+| **3I Vision** | iOS & Android | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/3i-vision/id6670479729) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vision.watcharea) |
+| **DataMind Agent** | iOS & Android | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/datamind-agent/id6754242027) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.datamind.agent) |
+| **Adahi** | Android | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.adahi.sa) |
 
-### 🎯 **Freelance Projects**
-| App | Description | Links |
-|-----|-------------|-------|
-| **Yalla L3b** | Sports booking app with player ratings & analytics | [Play Store](https://play.google.com/store/apps/details?id=com.yallaL3b.app) |
-| **Aman App** | Bus tracking app for Omani market (In Development) | Coming Soon |
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor's Degree in Computer Science** - Cairo University *(Sep 2017 – Jun 2022)*
-
-### 📜 Certifications
-- ✅ **Flutter Advanced Course** – Clean Architecture with MVVM (Udemy, Apr 2024)
-- ✅ **Mastering Multi-Module Architecture** – Clean Architecture in Android (Udemy, Dec 2024)
-- ✅ **Mastering Mobile App Development** – YAT, Cairo (Dec 2021)
+#### 🎯 Freelance Projects
+| App | Platform | Links |
+|-----|----------|-------|
+| **Yalla L3b** | Android | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yallaL3b.app) |
+| **Aman App** | iOS & Android | 🚧 In Development |
 
 ---
 
-## 🌍 Languages
+### 🛠️ Tech Stack
 
-- 🇪🇬 **Arabic** – Native
-- 🇺🇸 **English** – Fluent
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🏗️ Architecture & State Management</b></summary>
+<br/>
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-purple?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-blue?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-orange?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-00D9FF?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-FF6D00?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>🌐 Backend & Database</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
 
 ---
 
-## 📫 Contact Me
+### 📊 GitHub Stats
 
-- 📧 Email: [eslamabid175@gmail.com](mailto:eslamabid175@gmail.com)
-- 📱 Phone: [+201023332583](tel:+201023332583)
-- 💼 LinkedIn: [linkedin.com/in/eslamaped](https://www.linkedin.com/in/eslamaped/)
-- 🐙 GitHub: [github.com/eslamabid175](https://github.com/eslamabid175)
-- 🌐 Portfolio: [eslamabid175.github.io](https://eslamabid175.github.io)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslamabid175&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabid175&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabid175&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-<div align="center">
+### 🎓 Certifications
 
-### 💼 Open for Freelance Projects & Full-time Opportunities
+✅ **Flutter Advanced Course** - Clean Architecture with MVVM (Udemy)  
+✅ **Mastering Multi-Module Architecture** - Clean Architecture in Android (Udemy)  
+✅ **The Complete Flutter & Dart** - Basics to Advanced [Arabic] (Udemy)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e30f3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eslamabid175.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslamaped/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslamabid175)
+---
 
-</div>
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://eslamabid175.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eslamaped/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:eslamabid175@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/eslamabid175">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 💡 Open Source Portfolio Template
+
+Want a portfolio like mine? I open-sourced it! ⭐
+
+[![Portfolio Template](https://img.shields.io/badge/🚀_Portfolio_Template-Use_This_Template-blue?style=for-the-badge)](https://github.com/eslamabid175/eslamabid175.github.io)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eslamabid175&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <b>⭐️ From <a href="https://github.com/eslamabid175">Eslam Aped</a> - Building the future, one app at a time 🚀</b>
+</p>
